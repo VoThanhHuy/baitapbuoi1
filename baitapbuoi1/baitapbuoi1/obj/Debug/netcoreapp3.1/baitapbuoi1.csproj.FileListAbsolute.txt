@@ -1,0 +1,14 @@
+D:\Võ Thanh Huy_1911060116\baitapbuoi1\baitapbuoi1\baitapbuoi1\obj\Debug\netcoreapp3.1\baitapbuoi1.csproj.AssemblyReference.cache
+D:\Võ Thanh Huy_1911060116\baitapbuoi1\baitapbuoi1\baitapbuoi1\obj\Debug\netcoreapp3.1\baitapbuoi1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Võ Thanh Huy_1911060116\baitapbuoi1\baitapbuoi1\baitapbuoi1\obj\Debug\netcoreapp3.1\baitapbuoi1.AssemblyInfoInputs.cache
+D:\Võ Thanh Huy_1911060116\baitapbuoi1\baitapbuoi1\baitapbuoi1\obj\Debug\netcoreapp3.1\baitapbuoi1.AssemblyInfo.cs
+D:\Võ Thanh Huy_1911060116\baitapbuoi1\baitapbuoi1\baitapbuoi1\obj\Debug\netcoreapp3.1\baitapbuoi1.csproj.CoreCompileInputs.cache
+D:\Võ Thanh Huy_1911060116\baitapbuoi1\baitapbuoi1\baitapbuoi1\bin\Debug\netcoreapp3.1\baitapbuoi1.exe
+D:\Võ Thanh Huy_1911060116\baitapbuoi1\baitapbuoi1\baitapbuoi1\bin\Debug\netcoreapp3.1\baitapbuoi1.deps.json
+D:\Võ Thanh Huy_1911060116\baitapbuoi1\baitapbuoi1\baitapbuoi1\bin\Debug\netcoreapp3.1\baitapbuoi1.runtimeconfig.json
+D:\Võ Thanh Huy_1911060116\baitapbuoi1\baitapbuoi1\baitapbuoi1\bin\Debug\netcoreapp3.1\baitapbuoi1.runtimeconfig.dev.json
+D:\Võ Thanh Huy_1911060116\baitapbuoi1\baitapbuoi1\baitapbuoi1\bin\Debug\netcoreapp3.1\baitapbuoi1.dll
+D:\Võ Thanh Huy_1911060116\baitapbuoi1\baitapbuoi1\baitapbuoi1\bin\Debug\netcoreapp3.1\baitapbuoi1.pdb
+D:\Võ Thanh Huy_1911060116\baitapbuoi1\baitapbuoi1\baitapbuoi1\obj\Debug\netcoreapp3.1\baitapbuoi1.dll
+D:\Võ Thanh Huy_1911060116\baitapbuoi1\baitapbuoi1\baitapbuoi1\obj\Debug\netcoreapp3.1\baitapbuoi1.pdb
+D:\Võ Thanh Huy_1911060116\baitapbuoi1\baitapbuoi1\baitapbuoi1\obj\Debug\netcoreapp3.1\baitapbuoi1.genruntimeconfig.cache
